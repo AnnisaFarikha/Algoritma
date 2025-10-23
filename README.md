@@ -1,1 +1,1 @@
-# Algoritma Pemrograman
+# AlgoritmaPemrograman
